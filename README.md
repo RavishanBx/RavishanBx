@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,php,laravel,vue,flutter,git,github,selenium,postman" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,php,laravel,vue,flutter,git,github,selenium,postman,python" />
   </a>
 </p>
 

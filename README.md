@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  -   💻   I am Ravishan. works as a Software Quality Engineer and Freelancing Software Developer
+  -   💻   I am Ravishan. works as a Test Automation Engineer and Freelancing Software Developer
   -  📖   I love learning new stuff and challenge my self, but I always finish what I have started
 
   -  ⏳  “There is no such thing as a perfect method. Methods always can be improved upon.” - Walter Daiber
